@@ -31,7 +31,7 @@ It works well with both IOS and Android.
 > Follow these steps to install and test the app:
 
 ```
-git clone git@github.com:ATF19/react-native-shop-ui.git
+git clone https://github.com/HarshitClecotech/React-native-Shopping-app-UI.git
 cd react-native-shop-ui
 npm install
 ```
